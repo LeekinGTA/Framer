@@ -12,6 +12,14 @@
 #include <QFileDialog>
 #include <QUrl>
 #include <QStringList>
+#include <QtCore>
+#include <QImage>
+#include <QList>
+#include <Qt>
+
+#include <QWidget>
+#include <QPainter>
+#include <QRect>
 
 #endif // STDAFX_H
 
